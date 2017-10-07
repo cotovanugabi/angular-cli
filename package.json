@@ -108,7 +108,7 @@
     "tslint": "^4.0.2",
     "tslint-loader": "^3.3.0",
     "typescript": "~2.0.3",
-    "url-loader": "^0.5.7",
+    "url-loader": "^0.6.0",
     "walk-sync": "^0.2.6",
     "webpack": "2.2.0",
     "webpack-dev-server": "2.2.0-rc.0",
